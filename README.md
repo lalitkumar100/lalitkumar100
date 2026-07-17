@@ -1,5 +1,11 @@
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72A&center=true&vCenter=true&width=900&lines=Hi+I'm+Lalit+Kumar;Full+Stack+Developer;Java+Developer;React+Developer;Express.js+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 # Hi 👋, I'm Lalit Kumar
 
